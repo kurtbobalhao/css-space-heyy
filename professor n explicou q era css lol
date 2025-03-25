@@ -4,7 +4,7 @@ width: 100%;
 height: 170px;
 display: block;
 content: "";
-background-image: url('https://i.redd.it/5jn1qiuwg6j31.jpg');
+background-image: url('https://i.pinimg.com/originals/7b/29/7b/7b297ba34c6a794a1b231d953043c4a8.jpg');
 background-position: center center;
 background-size: cover;
 }
@@ -16,7 +16,7 @@ height: 200px;
 
 @import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@1,300&display=swap');
   body {
-      background-image: url('https://i.pinimg.com/1200x/10/50/df/1050dff95d69eae05300d4bd97c00eda.jpg');
+      background-image: url('https://i.pinimg.com/564x/eb/f5/56/ebf556c1e5cc29ac8b75fcae5c38336d.jpg');
       background-position: bottom right;
       background-attachment: fixed;
       background-repeat: no-repeat;
@@ -24,7 +24,7 @@ height: 200px;
       font-family: 'Acme';
   }
  
-.online { visibility: hidden; } .online img { content: url("https://24.media.tumblr.com/8ddc0aa68a60ef4da68d963ca68de49f/tumblr_mrp03bUFKH1r3zwi7o1_500.gif"); animation-name: none; visibility: visible; height: 90px; width: 90px; }
+.online { visibility: hidden; } .online img { content: url("https://pa1.narvii.com/6595/966bb855f165356ba87ac55db5ea667228801b3a_00.gif"); animation-name: none; visibility: visible; height: 90px; width: 90px; }
   main {
       border-style: solid;
   }
@@ -46,7 +46,7 @@ height: 200px;
   }
  
   .profile .blurbs:before {
-      background-image: url('https://i.pinimg.com/736x/b4/a8/af/b4a8af1ac30e0e350ae45ca8b5a57fc2.jpg');
+      background-image: url('https://i.pinimg.com/564x/10/2b/86/102b863c59e27c6a625504f8ea63c190.jpg');
       display: block;
       width: 100%;
       background-position: center center;
@@ -67,7 +67,7 @@ text-align: center;
       border-style: none;
   }
 .profile .contact:after {
-      background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a6b1bd20-95c9-4639-8aa3-c159f5b8293b/dc20w0y-3a618b78-95d9-4921-9d24-1e0db321bafe.jpg/v1/fill/w_1024,h_1366,q_75,strp/spike_spiegel___cowboy_bebop_by_itensai_dc20w0y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2NiIsInBhdGgiOiJcL2ZcL2E2YjFiZDIwLTk1YzktNDYzOS04YWEzLWMxNTlmNWI4MjkzYlwvZGMyMHcweS0zYTYxOGI3OC05NWQ5LTQ5MjEtOWQyNC0xZTBkYjMyMWJhZmUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.bXHxJLRpnYg_BZyMsZkUqr_l3UcHvnTfmBOFIA4ZcCs');
+      background-image: url('https://i.pinimg.com/564x/e9/6b/7f/e96b7fb56eb5664564504215cbb5fad5.jpg');
       display: block;
       width: 100%;
       background-position: center center;
@@ -99,7 +99,7 @@ text-align: center;
  }
  
 #comments:before {
-     background-image: url('https://pbs.twimg.com/media/FGCJojtWUAQy76f.png');
+     background-image: url('https://i.pinimg.com/564x/4d/b9/c7/4db9c7d0ec8e965fa5c21b6445b9d525.jpg');
      display: block;
       width: 100%;
       background-position: center center;
@@ -268,35 +268,51 @@ pointer-events: none;
 
 }
 
-.
+.col, main, footer, nav::before, .online, nav .links, nav .top {
+
+animation: float 4s;
+
+animation-iteration-count: infinite;
+
+animation-timing-function: ease-in-out;
+
+}
+
+.col, main, footer, nav::before, .online, nav .links, nav .top {
+
+animation: float 4s;
+
+animation-iteration-count: infinite;
+
+animation-timing-function: ease-in-out;
+
+}
+
+@keyframes float {
+
+0% { transform: translate(0, 0px);
+
+}
+
+50% {
+
+transform: translate(0, 8px);
+
+}
+
+100% {
+
+transform: translate(0, -0px);
+
+}
 
 </style>
 
-<iframe width="0" height="0" src="https://www.youtube.com/embed/eyI635o2pmk//?&;amp;;autoplay=1&;loop=1&;controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" loading="lazy">
+<!-- (c) AUTOPLAY CODE by Vidal (https://blog.spacehey.com/entry?id=97599)-->
+
+<iframe width="0" height="0" src="https://www.youtube.com/embed/k8ozVkIkr-g//?&;amp;;autoplay=1&;loop=1&;controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" loading="lazy">
 </iframe>
 
-<!-- (c) Your stuff goes below here ☆)--> ayyy, im kurt (not the cobain :P) i have 17 yrs and i am from Brazil! I just want to make some friends, so feel free to add me!
+<!-- escreve as coisa aq burro)--> yoo! my name is kurt and im from brazil! i have 18 years and i live in sao paulo!
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlrZTVpdXd3NXRvMWM3MG1ncnpxMTlvMnFwOHR6ejRrYXJtdnpmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dcEhBpNle8ikw/giphy.gif"/>
 
-<img src="https://24.media.tumblr.com/93e43de52ebf787120d8e93e223efbac/tumblr_mj7sh6o78K1r1mvheo1_500.gif"/>
-
-
-<style>
-body:before {
-content: " ";
-height: 100vh;
-width: 100vw;
-display: block;
-position: fixed;
-top: 0;
-left: 0;
-z-index: 100;
-background-image: url('https://media.tenor.com/4DW4CKmMbPoAAAAC/ps2startup-ps2.gif');
-background-size: cover;
-background-repeat: no-repeat;
-background-position:center;
-animation: yourAnimation 7s ease 0s 1 normal forwards;
-pointer-events: none;
-}
-@keyframes yourAnimation { 0.0%{ opacity: 1;} 75%{ opacity: 1; } 100%{ opacity: 0;} }
-
-<style></style>
